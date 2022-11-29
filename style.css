@@ -8,12 +8,15 @@
 body {
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
+  background-color: #546269;
 }
 
 .container {
   width: 85%;
   margin: auto;
 }
+
+
 
 ul {
   list-style: none;
